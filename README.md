@@ -88,7 +88,8 @@ You can also register a new user via the sign-up API.
 
 ## 🔑 API Endpoints
 
-# POST `/api/auth/signup`
+POST `http://localhost:3000/api/auth/signup`
+POST `http://localhost:3000/api/auth/signin`
 
 Registers a new user.
 
