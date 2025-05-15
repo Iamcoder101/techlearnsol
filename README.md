@@ -45,9 +45,9 @@ Create a `.env` file in the root directory with the following content:
 
 ```
 PORT=3000
-MONGO_URI=mongodb+srv://itsayesha66:itsayesha66@cluster0.r1nqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://<user_name>:<password>@cluster0.r1nqq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
-
+replace username and password with actual your username and password
 Replace `MONGO_URI` with your actual MongoDB URI if using MongoDB Atlas.
 i also used **MongoDB atlas**  in this project
 
@@ -151,6 +151,7 @@ http://localhost:3000/dashboard.html
 ---
 
 # Folder Structure
+``
 auth-system/
 ├── controllers/         # Route logic
 │   └── authController.js
@@ -165,7 +166,7 @@ auth-system/
 ├── server.js            # Main server file
 ├── package.json
 └── README.md
-
+``
 
 **Logging**
 
