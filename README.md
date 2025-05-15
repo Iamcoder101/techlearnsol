@@ -29,7 +29,7 @@ A backend-only authentication system with user registration and login functional
 # 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/auth-system.git
+git clone https://github.com/Iamcoder101/techlearnsol.git
 cd auth-system
 ````
 
