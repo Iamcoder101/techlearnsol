@@ -151,7 +151,7 @@ http://localhost:3000/dashboard.html
 ---
 
 # Folder Structure
-``
+
 auth-system/
 ├── controllers/         # Route logic
 │   └── authController.js
@@ -166,7 +166,7 @@ auth-system/
 ├── server.js            # Main server file
 ├── package.json
 └── README.md
-``
+
 
 **Logging**
 
